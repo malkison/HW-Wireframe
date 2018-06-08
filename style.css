@@ -1,0 +1,78 @@
+.header{
+    padding: 50px;
+    background:#ebebeb;
+    width: 960px;
+    margin-left: 200px;
+    margin-right: 200px;
+
+
+
+}
+.nav{
+    padding: 50px;
+    background:#ebebeb;
+    width: 960px;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 20px;
+
+}
+
+body{
+    background: #777;
+    width: 960px;
+}
+
+.section{
+    padding: 80px;
+    background:#ebebeb;
+    width: 400px;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 20px;
+}
+.article_block{
+    padding: 50px;
+    background:#777;;
+    width: 400px;
+    margin-left: 225px;
+    margin-right: 225px;
+    position: absolute;; top:383px;
+    position: absolute;; right: 20;
+}
+
+.inarticle{
+    padding: 1px;
+    background:#ebebeb;;
+    width: 400px;
+    margin-left: 276px;
+    margin-right: 225px;
+    position: absolute;; top:400px;
+    position: absolute;; right: 20;
+}
+.inarticle2{
+    padding: 1px;
+    background:#ebebeb;;
+    width: 400px;
+    margin-left: 276px;
+    margin-right: 225px;
+    position: absolute;; top:463px;
+    position: absolute;; right: 20;
+}
+.aside{
+    padding: 80px;
+    background:#ebebeb;;
+    width: 326px;
+    margin-left: 774px;
+    margin-right: 225px;
+    position: absolute;; top:348px;
+    position: absolute;; right: 20;
+  
+}
+.footer{
+    padding: 50px;
+    background:#ebebeb;
+    width: 960px;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 20px;
